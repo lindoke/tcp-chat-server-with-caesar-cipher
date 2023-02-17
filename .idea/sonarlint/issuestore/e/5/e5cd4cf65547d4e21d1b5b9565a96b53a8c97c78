@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(âªÆûÿÿÿÿ
+O
+java:S1854":Remove this useless assignment to local variable "client".(Òðþ|
+@
+java:S1481"+Remove this unused "client" local variable.(Òðþ|
+g
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ð¶ü
+r
+java:S1450"WRemove the "nickname" field and declare it as a local variable in the relevant methods.(¥šÓßÿÿÿÿÿ
+h
+java:S1450"RRemove the "out" field and declare it as a local variable in the relevant methods.(¨¥ÑÓ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(æžÃ
+>	java:S108&")Either remove or fill this block of code.(ï­£Ä
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8É–€®å0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Æ¦”‰8Äï€®å0
